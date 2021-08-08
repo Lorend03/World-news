@@ -14,7 +14,11 @@
 
 ##La nueva norma aplica para hijos reconocidos dentro del matrimonio, extramatrimoniales, adoptivos, de unión marital de hecho, de parejas conformadas por el mismo género y para el caso de los hijos con paternidad o maternidad declarada por decisión judicial.
 
-##Sobre la importancia de la ley, Pizarro agregó que haberla sacado adelante “es un reconocimiento a las labores de cuidado y crianza de las mujeres en nuestro país y va más allá de una acción afirmativa, comienza a cambiar estructuras sociales dominantes en Colombia; es un proyecto de ley simbólicamente muy potente, es un paso más en la lucha por la equidad de género”.Durante la legislatura pasada, la representante mantuvo este argumento en la discusión para mantener a flote el proyecto que le dio vida.
+##Sobre la importancia de la ley, Pizarro agregó que haberla 
+
+##sacado adelante “es un reconocimiento a las labores de cuidado y crianza de las mujeres en nuestro país y va más allá de una acción afirmativa, comienza a cambiar estructuras sociales dominantes en Colombia; es un proyecto de ley simbólicamente muy potente, es un paso más en la lucha por la equidad de género”.Durante la legislatura pasada, la representante mantuvo este argumento en 
+
+##la discusión para mantener a flote el proyecto que le dio vida.
 
 ##La ley explica que cuando los padres no lleguen a un consenso, el funcionario encargado del registro de los menores de edad sorteará los apellidos, pero esto debe estar sujeto a un procedimiento que avale la Registraduría. La nueva norma entró a regir, no obstante, la Registraduría tiene un plazo de seis meses para reglamentar el mencionado procedimiento.
 
