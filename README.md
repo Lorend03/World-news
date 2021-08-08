@@ -1,25 +1,15 @@
-# World-news
 
-SANDRA LORENA YA TIENE EN SU PODER LA MEDALLA DE PLATA OLIMPICA
+# Noticias-Tecnologia: El 'Uber aéreo' llegaría a Bogotá con taxis aéreos eléctricos.
+##El objetivo es claro: desarrollar el mercado de la Movilidad Aérea Urbana (UAM, por sus siglas en inglés) en la región. Las empresas que se aliaron con esa meta fueron Eve Urban Air Mobility Solutions, compañía del fabricante aeronáutico Embraer, y Flapper, una plataforma independiente de aviación privada a pedido.
 
-Fue segunda en los 20 km de la marcha de los Juegos.
+##En concreto, Eve espera poner a disposición de Flapper hasta 25 aviones eléctricos verticales para que estén disponibles en la plataforma digital en ciudades clave de Sudamérica (entre las que se encuentra Bogotá).
 
-Sandra Lorena Arenas consiguió una plata histórica para la marcha colombiana, que nunca había logrado 
-subir al podio en unos Juegos Olímpicos y que lo logró este viernes en Sapporo, en la carrera femenina
-de los 20 kilómetros.
+##Es decir, la idea es consolidar una especie de servicio de 'Uber' aéreo, en el que los usuarios puedan movilizarse por los aires de las ciudades para llegar a sus destinos.
 
-"Demostré que no hay nada imposible en la vida, que todo sueño, con mucho esfuerzo y dedicación, se puede 
-lograr", afirmó Arenas sobre su plata.
+##Entre las proyecciones que tiene la alianza está el número de 25 mil horas de vuelo por año en la región.
 
-La marchista nacida hace 27 años en Pereira terminó la prueba en 1 hora, 29 minutos y 37 segundos, siendo
-la única que plantó cara a la italiana Antonella Palmisano (1h29:12), que impuso su ley en los últimos
-kilómetros.
+##Sobre los aviones eléctricos se sabe que son aeronaves eléctricas de despegue y aterrizaje vertical que prometen cero emisiones, bajo nivel de ruido y ser amigables con la comunidad al tener por naturaleza un sistema intuitivo y un diseño simple.
 
-Ambas relegaron al bronce a la china Hong Liu (1h29:57), la vigente campeona olímpica y mundial. Colombia 
-festejó así su segunda medalla en el atletismo de Tokio-2020, después de la plata que sumó el jueves Anthony
-Zambrano en los 400 metros.
+##Por lo que favorecera al entorno y asi mismo mejorara la calidad del trasnporte humano.
 
-Lorena Arenas recibió este sábado en la mañana, hora colombiana, la medalla de plata en una ceremonia en el 
-estadio Olímpico de Tokio.
-
-https://www.eltiempo.com/files/article_content_new/uploads/2021/08/07/610e6e47eceb0.jpeg
+##https://www.eltiempo.com/files/og_paste_img/uploads/2021/08/04/610af27cbb2ae.jpeg
