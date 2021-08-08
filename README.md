@@ -3,7 +3,7 @@ Politica
 
 ##En el Congreso, la norma fue impulsada por María José Pizarro, representante del Mais. La nueva ley deja inconformes a las wayuus
 
-## que se rigen bajo una tradición matrilineal ,La Ley Aluna busca que los padres acuerden cuál apellido ira primero al nombrar a sus hijos e hijas
+##que se rigen bajo una tradición matrilineal ,La Ley Aluna busca que los padres acuerden cuál apellido ira primero al nombrar a sus hijos e hijas
 
 ##Cuando no haya consenso, la norma dice que se hará un sorteo.Este jueves el presidente Iván Duque sancionó la Ley Aluna, el último paso para que la norma entre a regir oficialmente y los y las colombianas puedan hacer uso de ella
 
