@@ -1,14 +1,11 @@
+Politica
 # Noticias-politica:Duque sancionó ley que permite a padres elegir orden de apellidos de sus hijos
 
 ##En el Congreso, la norma fue impulsada por María José Pizarro, representante del Mais. La nueva ley deja inconformes a las wayuus
 
-## que se rigen bajo una tradición matrilineal
+## que se rigen bajo una tradición matrilineal ,La Ley Aluna busca que los padres acuerden cuál apellido ira primero al nombrar a sus hijos e hijas
 
-##La Ley Aluna busca que los padres acuerden cuál apellido ira primero al nombrar a sus hijos e hijas
-
-##Cuando no haya consenso, la norma dice que se hará un sorteo.
-
-##Este jueves el presidente Iván Duque sancionó la Ley Aluna, el último paso para que la norma entre a regir oficialmente y los y las colombianas puedan hacer uso de ella
+##Cuando no haya consenso, la norma dice que se hará un sorteo.Este jueves el presidente Iván Duque sancionó la Ley Aluna, el último paso para que la norma entre a regir oficialmente y los y las colombianas puedan hacer uso de ella
 
 ##La ley fue impulsada en el Congreso por María José Pizarro, representante del Mais, y establece que los padres deben llegar a un acuerdo para elegir el orden de los apellidos de sus hijos e hijas. Dice, además, que en caso de no darse un consenso, los padres pueden recurrir a un sorteo para decidir qué apellido irá de primero.
 
@@ -22,10 +19,20 @@
 
 ##La ley explica que cuando los padres no lleguen a un consenso, el funcionario encargado del registro de los menores de edad sorteará los apellidos, pero esto debe estar sujeto 
 
-##a un procedimiento que avale la Registraduría. La nueva norma entró a regir, no obstante, la 
+##a un procedimiento que avale la Registraduría. La nueva norma entró a regir, no obstante, la Registraduría tiene un plazo de seis meses para reglamentar el mencionado procedimiento.
 
-##Registraduría tiene un plazo de seis meses para reglamentar el mencionado procedimiento.
+##Si bien la Ley Aluna responde a unas demandas de las mujeres y reconoce el rol de cuidado de las madres, en especial las madres que se han responsabilizado de la crianza de sus hijos en solitario, las mujeres wayúus expresaron su inconformidad con cómo se aprobó la entonces iniciativa.
 
-##Si bien la Ley Aluna responde a unas demandas de las mujeres y reconoce el rol de cuidado 
+# Noticias-Tecnologia: El 'Uber aéreo' llegaría a Bogotá con taxis aéreos eléctricos.
+##El objetivo es claro: desarrollar el mercado de la Movilidad Aérea Urbana (UAM, por sus siglas en inglés) en la región. Las empresas que se aliaron con esa meta fueron Eve Urban Air Mobility Solutions, compañía del fabricante aeronáutico Embraer, y Flapper, una plataforma independiente de aviación privada a pedido.
 
-##de las madres, en especial las madres que se han responsabilizado de la crianza de sus hijos en solitario, las mujeres wayúus expresaron su inconformidad con cómo se aprobó la entonces iniciativa.
+##En concreto, Eve espera poner a disposición de Flapper hasta 25 aviones eléctricos verticales para que estén disponibles en la plataforma digital en ciudades clave de Sudamérica (entre las que se encuentra Bogotá).
+
+##Es decir, la idea es consolidar una especie de servicio de 'Uber' aéreo, en el que los usuarios puedan movilizarse por los aires de las ciudades para llegar a sus destinos.
+
+##Entre las proyecciones que tiene la alianza está el número de 25 mil horas de vuelo por año en la región.Sobre los aviones eléctricos se sabe que son aeronaves eléctricas de despegue y aterrizaje vertical que prometen cero emisiones, bajo nivel de ruido y ser amigables con la comunidad al tener por naturaleza un sistema intuitivo y un diseño simple.
+
+##Por lo que favorecera al entorno y asi mismo mejorara la calidad del trasnporte humano.
+
+##https://www.eltiempo.com/files/og_paste_img/uploads/2021/08/04/610af27cbb2ae.jpeg
+main
