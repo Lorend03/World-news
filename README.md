@@ -16,3 +16,5 @@ festejó así su segunda medalla en el atletismo de Tokio-2020, después de la p
 Zambrano en los 400 metros.
 Lorena Arenas recibió este sábado en la mañana, hora colombiana, la medalla de plata en una ceremonia en el 
 estadio Olímpico de Tokio.
+
+https://www.eltiempo.com/files/article_content_new/uploads/2021/08/07/610e6e47eceb0.jpeg
