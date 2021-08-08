@@ -24,4 +24,3 @@
 
 ##“Se exceptúa del sorteo en el orden de los apellidos a los pueblos indígenas cuyo sistema de filiación o parentesco esté regido por el matrilinaje”, era el párrafo que ellas hubieran querido que la ley incluyera. No obstante, esta anotación la hicieron una vez se aprobó la iniciativa.
 
-##https://www.elespectador.com/resizer/gdUyvNEiCH0KN5FeF_UTm-fq4Js=/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/G45RC7EMGZE2ZNB5SKRYTGMR24.jpg
